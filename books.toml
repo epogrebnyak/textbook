@@ -1,0 +1,47 @@
+# Causal inference
+[effect]
+isbn = "978-1032125787"
+
+[mixtape]
+isbn = "978-0300251685"
+
+[Why]
+isbn = "9780465097609"
+
+[MHE]
+isbn = "978-0691120355"
+
+# For the brave and true
+
+# Bayes
+[Rethinking]
+isbn = "978-0367139919"
+
+[BMC]
+isbn = "9780367894368"
+
+[KurtLEGO]
+isbn = "9781593279561"
+buy = "https://nostarch.com/learnbayes"
+
+# ML
+[ISLR2]
+isbn = "978-1071614174"
+
+[HOML]
+isbn = "978-1492032649"
+
+# Approaching (Almost) Any Machine Learning Problem
+
+# Intro econometrics 
+# Stock and Watson, Greene, Daugherty
+[Kennedy]
+isbn = "978-1405182577"
+
+[ROS]
+isbn = "978-1107023987"
+
+# Classics
+[Hamilton]
+isbn = "978-0691042893"
+
