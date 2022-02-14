@@ -11,9 +11,18 @@ isbn = "9780465097609"
 [MHE]
 isbn = "978-0691120355"
 
-# For the brave and true
+[Imbens]
+isbn = "978-0521885881"
+
+# Probability
+
+[Jayes]
+isbn = "9780511790423"
 
 # Bayes
+[TB]
+isbn = "978-1492089469"
+
 [Rethinking]
 isbn = "978-0367139919"
 
@@ -23,6 +32,9 @@ isbn = "9780367894368"
 [KurtLEGO]
 isbn = "9781593279561"
 buy = "https://nostarch.com/learnbayes"
+
+[BDA3]
+isbn = "978-1439840955"
 
 # ML
 [ISLR2]
@@ -34,9 +46,12 @@ isbn = "978-1492032649"
 # Approaching (Almost) Any Machine Learning Problem
 
 # Intro econometrics 
-# Stock and Watson, Greene, Daugherty
+# Greene, Daugherty
 [Kennedy]
 isbn = "978-1405182577"
+
+[SW]
+isbn = "9780138009007"
 
 [ROS]
 isbn = "978-1107023987"
