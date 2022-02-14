@@ -43,7 +43,7 @@ Open:
   [website](https://avehtari.github.io/ROS-Examples/), 
   [PDF](https://users.aalto.fi/~ave/ROS.pdf),
   [code repo](https://github.com/avehtari/ROS-Examples)
-  and predecessor book [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/)
+  and [predecessor book](http://www.stat.columbia.edu/~gelman/arm/)
 
 Earlier:
 
@@ -57,10 +57,19 @@ Foundational:
 
 ## Probability
 
-- [Probability Theory: The Logic of Science by E.T. Jaynes](https://bayes.wustl.edu/etj/prob/book.pdf), first three chapters
-  - by chapter reading of the book by [Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
-- [stat101 videos](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) and [Joe Blitzstein, Jessica Hwang Probability book](http://probabilitybook.net)
-- [Modern intro to probability and statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf) by Dekking, Kraaikamp, Lopuhaa, Meester (2005)
+Open:
+
+- Probability book {cite}`ProbBH`: 
+  [PDF](http://probabilitybook.net), 
+  [stat101 videos](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+- Modern intro to probability and statistics {cite}`Dekking`: [PDF](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf)
+
+Earlier:
+
+- Probability Theory: The Logic of Science by E.T. Jaynes. {cite}`Jaynes`:
+  [first three chapters](https://bayes.wustl.edu/etj/prob/book.pdf), 
+  reading of the book by [Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_).
 
 
 ## Machine learning
@@ -77,8 +86,12 @@ Earlier:
 
 Papers:
 
-- [Athley, Imbens. Machine Learning Methods That Economists Should Know About](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080217-053433)
-- [Varian. Big Data: New Tricks for Econometrics](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3)
+- [Machine Learning Methods That Economists Should Know About](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080217-053433) {cite}`Athey19` 
+  (also as a [working paper](https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-methods-economists-should-know-about))     
+- [Big Data: New Tricks for Econometrics](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3) {cite}`Varian14`
+
+Talks:
+
 - [P Huenermund on "Causal Inference in Machine Learning and AI (with lessons for econometrics)"](https://twitter.com/PHuenermund/status/1258480147407257605) (lecture and slides)
 
 

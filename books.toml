@@ -16,8 +16,14 @@ isbn = "978-0521885881"
 
 # Probability
 
-[Jayes]
+[Jaynes]
 isbn = "9780511790423"
+
+[ProbBH]
+isbn = "978-1466575578"
+
+[Dekking]
+isbn = "978-1-85233-896-1"
 
 # Bayes
 [TB]
